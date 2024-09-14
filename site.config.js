@@ -1,26 +1,26 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
+    name: "NUGI",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
+    role: "",
     bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
-    instagram: "",
+    email: "inwook789@skku,edu",
+    linkedin: "인욱-태-3631392b4",
+    github: "",
+    instagram: "tae_inwook",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `SKKU_STAR`,
+      href: "https://starskku.com/",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    title: "NUGI",
+    description: "welcome!",
+    scheme: "auto", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
@@ -56,7 +56,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "",
+      repo: Nugi9/morethan-log || "",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
