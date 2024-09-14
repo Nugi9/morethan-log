@@ -6,6 +6,7 @@ import styled from "@emotion/styled"
 import Scripts from "src/layouts/RootLayout/Scripts"
 import useGtagEffect from "./useGtagEffect"
 import useThrottle from "src/hooks/useThrottle"
+import { useRouter } from "next/router"
 import Prism from "prismjs/prism"
 import 'prismjs/components/prism-markup-templating.js'
 import 'prismjs/components/prism-markup.js'
