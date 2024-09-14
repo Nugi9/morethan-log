@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "NUGI",
+    title: "NUGI-log",
     description: "welcome!",
     scheme: "system", // 'light' | 'dark' | 'system'
   },
