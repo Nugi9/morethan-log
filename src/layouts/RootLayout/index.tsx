@@ -42,6 +42,15 @@ import 'prismjs/components/prism-wasm.js'
 import 'prismjs/components/prism-yaml.js'
 import "prismjs/components/prism-go.js"
 
+interface HeaderProps {
+  fullWidth: boolean;
+  readingProgress: number;
+}
+
+const Header: React.FC<HeaderProps> = ({ fullWidth, readingProgress }) => {
+  // ... Header component implementation
+};
+
 type Props = {
   children: ReactNode
 }
