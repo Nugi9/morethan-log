@@ -1,4 +1,4 @@
-import React, { ReactNode, useEffect } from "react"
+import React, { useState, useEffect, useRef, ReactNode } from "react"
 import { ThemeProvider } from "./ThemeProvider"
 import useScheme from "src/hooks/useScheme"
 import Header from "./Header"
