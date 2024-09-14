@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "NUGI",
     description: "welcome!",
-    scheme: "auto", // 'light' | 'dark' | 'system'
+    scheme: "system", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
