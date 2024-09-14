@@ -20,7 +20,6 @@ export const colors = {
     ...blue,
     ...red,
     ...green,
-    gray12: '#333333', // gray12 추가
   },
   dark: {
     ...indigoDark,
@@ -28,6 +27,5 @@ export const colors = {
     ...blueDark,
     ...redDark,
     ...greenDark,
-    gray12: '#333333', // gray12 추가
   },
 }
