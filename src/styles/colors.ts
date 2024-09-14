@@ -20,6 +20,9 @@ export const colors = {
     ...blue,
     ...red,
     ...green,
+    text: {
+      primary: '#000000', // 기본 색상
+    },
   },
   dark: {
     ...indigoDark,
@@ -27,5 +30,8 @@ export const colors = {
     ...blueDark,
     ...redDark,
     ...greenDark,
+    text: {
+      primary: '#FFFFFF', // 다크모드에서 흰색
+    },
   },
 }
