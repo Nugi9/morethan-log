@@ -1,1 +1,57 @@
-<svg viewBox="0 0 1080 1080" fill="none" xmlns="http://www.w3.org/2000/svg">      <defs>  <filter id="filter" x="-20%" y="-20%" width="140%" height="140%" filterUnits="objectBoundingBox" primitiveUnits="userSpaceOnUse" color-interpolation-filters="linearRGB">    <feMorphology operator="dilate" radius="20 20" in="SourceAlpha" result="morphology"/>    <feFlood flood-color="#ffffff" flood-opacity="1" result="flood"/>    <feComposite in="flood" in2="morphology" operator="in" result="composite"/>    <feMerge result="merge">          <feMergeNode in="composite" result="mergeNode"/>      <feMergeNode in="SourceGraphic" result="mergeNode1"/>      </feMerge>  </filter></defs>      <g id="notion-avatar" filter="url(#filter)">        <g id="notion-avatar-face" fill="#ffffff">      <!--?xml version="1.0" encoding="UTF-8"?-->    <title>Face/ 4</title>    <g id="Face/-4" stroke="none" stroke-width="1" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">        <path d="M532,379 C664.54834,379 772,486.45166 772,619 C772,751.54834 764.54834,899 592,899 C462.715227,899 358.747776,816.220491 314.739381,718.954345 C313.831676,718.98455 312.917642,719 312,719 C267.81722,719 232,683.18278 232,639 C232,599.134956 261.158843,566.080325 299.312086,560.00055 C325.599297,455.979213 419.809919,379 532,379 Z M295.858895,624.545187 L304.141105,655.454813" id="Path" stroke="#000000" stroke-width="24"/>    </g>    </g><g id="notion-avatar-nose">      <!--?xml version="1.0" encoding="UTF-8"?-->    <title>Nose/ 4</title>    <g id="Nose/-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">        <path d="M636.843426,596.000252 C661.659687,637.453214 673.277876,666.226337 671.697992,682.319621 C670.118108,698.412905 655.181344,703.444023 626.8877,697.412976" id="Line" stroke="#000000" stroke-width="16" transform="translate(649.363766, 647.939652) rotate(1.032339) translate(-649.363766, -647.939652) "/>    </g>    </g><g id="notion-avatar-mouth">      <!--?xml version="1.0" encoding="UTF-8"?-->    <title>Mouth/ 2</title>    <g id="Mouth/-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">        <path d="M572,769 C585.775809,774.333333 599.109142,777 612,777 C624.890858,777 638.224191,774.333333 652,769" id="Path" stroke="#000000" stroke-width="16"/>    </g>    </g><g id="notion-avatar-eyes">      <!--?xml version="1.0" encoding="UTF-8"?-->    <title>Eyes/ 8</title>    <g id="Eyes/-8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">        <path d="M570,516 C578.836556,516 586,526.745166 586,540 C586,553.254834 578.836556,564 570,564 C561.163444,564 554,553.254834 554,540 C554,526.745166 561.163444,516 570,516 Z M708,516 C716.836556,516 724,526.745166 724,540 C724,553.254834 716.836556,564 708,564 C699.163444,564 692,553.254834 692,540 C692,526.745166 699.163444,516 708,516 Z" id="Combined-Shape" fill="#000000"/>    </g>    </g><g id="notion-avatar-eyebrows">      <!--?xml version="1.0" encoding="UTF-8"?-->    <title>Eyebrows/ 7</title>    <g id="Eyebrows/-7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">        <g id="Group" transform="translate(528.000000, 485.000000)" stroke="#000000" stroke-width="16">            <path d="M2,31 C13.6420073,23.1142473 23.8820073,17.5142473 32.72,14.2 C41.5579927,10.8857527 52.651326,8.48575274 66,7" id="Path" transform="translate(34.000000, 19.000000) rotate(12.000000) translate(-34.000000, -19.000000) "/>            <path d="M156,31 C167.642007,23.1142473 177.882007,17.5142473 186.72,14.2 C195.557993,10.8857527 206.651326,8.48575274 220,7" id="Path" transform="translate(188.000000, 19.000000) scale(-1, 1) rotate(12.000000) translate(-188.000000, -19.000000) "/>        </g>    </g>    </g><g id="notion-avatar-glasses">      <!--?xml version="1.0" encoding="UTF-8"?-->    <title>Glasses/ 0</title>    <g id="Glasses/-0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"/>    </g><g id="notion-avatar-hair">      <!--?xml version="1.0" encoding="UTF-8"?-->    <title>Hairstyle/ 7</title>    <g id="Hairstyle/-7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">        <path d="M429,249 C452,238 567.078089,210.731301 629,239 C751.666667,295 808,414 798,596 C706.666667,504.666667 636.333333,456.666667 587,452 C583.849456,451.701976 580.427025,451.181996 576.732706,450.440062 L578.623143,452.186178 C595.446627,467.677375 615.572664,484.948764 639,504 C565.154464,479.561802 512.897321,455.171558 482.228571,430.829268 C471.250239,422.115586 460.817679,411.645571 450.930891,399.419222 C448.886906,440.886337 443.90983,479.746614 436,516 C428.08,552.3 405.1318,598.0743 367.1554,653.3229 L366,655 L328.116663,564.824988 L287.145773,564.824988 C261.048591,494.941663 255,439.333333 269,398 C283,356.666667 311.333333,337.666667 354,341 C365.105394,298.268435 390.105394,267.601768 429,249 Z" id="Path" stroke="#000000" stroke-width="12" fill="#000000"/>    </g>    </g><g id="notion-avatar-accessories">      <!--?xml version="1.0" encoding="UTF-8"?-->    <title>Accessories/ 0</title>    <g id="Accessories/-0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"/>    </g><g id="notion-avatar-details">      <!--?xml version="1.0" encoding="UTF-8"?-->    <title>Details/ 0</title>    <g id="Details/-0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"/>    </g><g id="notion-avatar-beard">      <!--?xml version="1.0" encoding="UTF-8"?-->    <title>Beard/ 0</title>    <g id="Beard/-0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"/>    </g>      </g>      </svg>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="512.000000pt" height="512.000000pt" viewBox="0 0 512.000000 512.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M3460 4546 c-91 -26 -172 -81 -220 -151 -16 -23 -168 -337 -339 -696
+l-309 -654 -594 -6 c-650 -6 -652 -6 -855 -74 -525 -176 -904 -642 -973 -1195
+-6 -49 -10 -309 -10 -623 l0 -538 25 -24 24 -25 226 0 c125 0 234 4 244 9 10
+6 87 132 172 280 l154 271 75 0 75 0 153 -270 c85 -149 162 -275 172 -280 11
+-6 114 -10 245 -10 l226 0 24 25 25 24 0 256 0 255 240 0 240 0 0 -255 0 -256
+25 -24 24 -25 229 0 c205 0 232 2 250 18 11 9 91 136 177 282 87 146 164 273
+171 283 11 17 29 -2 174 -185 89 -111 171 -211 182 -220 17 -15 42 -18 170
+-18 146 0 149 1 174 25 l25 25 -3 438 c-5 479 -5 483 -73 635 l-25 58 39 67
+c69 119 128 264 166 407 20 80 32 146 51 303 l5 42 148 0 c100 0 166 5 206 15
+256 67 415 329 350 580 -49 187 -205 329 -396 359 l-69 10 0 414 0 413 -26 26
+c-25 25 -29 25 -128 21 -114 -5 -185 -30 -262 -93 -80 -66 -104 -115 -184
+-392 l-21 -73 -49 0 -50 0 0 255 0 256 -25 24 c-23 23 -30 25 -127 24 -57 0
+-123 -6 -148 -13z m140 -346 l0 -200 -120 0 -120 0 0 -80 0 -80 281 0 281 0
+-4 -177 c-3 -164 -5 -182 -27 -223 -53 -102 -126 -147 -260 -160 -138 -15
+-221 -50 -301 -131 -129 -129 -162 -322 -95 -552 55 -191 127 -294 338 -484
+83 -75 167 -155 188 -179 75 -87 135 -223 153 -347 7 -47 7 -48 -42 -95 -82
+-79 -205 -132 -309 -132 l-43 0 0 54 c0 37 -6 60 -17 74 -10 12 -166 89 -348
+172 -181 84 -356 166 -389 183 -153 81 -262 242 -282 416 l-7 61 -80 0 -80 0
+7 -61 c13 -133 69 -277 142 -366 19 -23 34 -44 34 -47 0 -3 -335 -6 -744 -6
+-694 0 -745 -1 -764 -17 -11 -10 -94 -117 -185 -238 -194 -259 -243 -304 -392
+-355 -107 -37 -98 -62 -92 268 4 241 8 301 25 372 61 257 167 446 351 631 182
+183 373 288 635 351 87 21 117 23 718 28 540 4 629 7 642 20 8 8 161 325 341
+705 185 393 338 702 353 718 45 47 108 75 175 76 l37 1 0 -200z m720 -60 l0
+-261 -45 31 c-57 39 -118 65 -188 80 -32 6 -57 14 -57 18 0 19 65 233 80 262
+10 19 31 47 47 62 33 31 108 67 141 68 l22 0 0 -260z m-128 -367 c55 -37 128
+-144 128 -186 0 -8 9 -25 19 -38 17 -21 30 -24 122 -30 158 -10 237 -55 300
+-171 31 -58 34 -70 33 -148 0 -72 -4 -93 -26 -136 -15 -28 -38 -65 -52 -81
+-33 -39 -129 -90 -188 -98 l-47 -7 29 54 c16 30 36 83 43 119 8 35 30 97 50
+136 43 85 46 115 12 148 -23 24 -31 25 -135 25 -104 0 -112 -1 -135 -25 -34
+-34 -31 -63 16 -157 40 -79 40 -82 28 -127 -17 -60 -97 -142 -155 -159 -24 -7
+-100 -12 -178 -12 l-136 0 0 -80 0 -80 80 0 79 0 -5 -52 c-10 -95 -35 -222
+-60 -306 -26 -87 -93 -249 -119 -289 l-16 -24 -102 93 c-56 51 -145 135 -198
+188 -83 82 -102 108 -142 190 -100 204 -102 394 -7 503 55 62 109 86 218 97
+155 16 262 72 342 179 71 95 83 142 88 348 l4 182 36 -15 c21 -8 54 -26 74
+-41z m-1256 -2189 c115 -53 232 -107 259 -119 l50 -23 -60 -27 c-89 -40 -226
+-84 -334 -108 -92 -20 -132 -21 -1011 -26 -503 -3 -920 -9 -926 -13 -6 -4 -80
+-129 -165 -277 l-154 -270 -137 -1 -138 0 0 164 0 163 51 7 c67 9 165 45 235
+87 96 57 171 136 326 342 l148 197 824 0 824 0 208 -96z m984 -484 l0 -220
+-62 0 -63 1 -120 151 c-66 83 -121 154 -123 158 -1 4 27 10 64 14 85 9 179 40
+246 81 29 19 54 34 56 34 1 1 2 -98 2 -219z m-843 -110 l-162 -270 -137 0
+-138 0 0 199 0 200 48 6 c205 24 385 66 492 114 25 11 48 20 52 20 4 1 -66
+-120 -155 -269z m-1237 -70 l0 -200 -137 0 -138 0 -80 142 c-44 78 -95 167
+-113 200 l-34 58 251 0 251 0 0 -200z"/>
+<path d="M3625 3655 c-16 -15 -25 -36 -25 -55 0 -19 9 -40 25 -55 15 -16 36
+-25 55 -25 19 0 40 9 55 25 16 15 25 36 25 55 0 19 -9 40 -25 55 -15 16 -36
+25 -55 25 -19 0 -40 -9 -55 -25z"/>
+</g>
+</svg>
