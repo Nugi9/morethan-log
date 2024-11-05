@@ -58,8 +58,8 @@ c-25 25 -29 25 -128 21 -114 -5 -185 -30 -262 -93 -80 -66 -104 -115 -184
 
 <!-- 흰색 테두리 -->
 <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)">
-    <use href="#original-path" fill="none" stroke="white" stroke-width="60"/>
-    <use href="#circle-path" fill="none" stroke="white" stroke-width="60"/>
+    <use href="#original-path" fill="white" stroke="none"/>
+    <use href="#circle-path" fill="black" stroke="none" transform="scale(2)"/> <!-- 눈 크기 확대 -->
 </g>
 
 <!-- 원본 검은색 이미지 -->
