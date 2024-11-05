@@ -53,7 +53,7 @@ c-25 25 -29 25 -128 21 -114 -5 -185 -30 -262 -93 -80 -66 -104 -115 -184
 <!-- 흰색 배경 -->
 <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)">
     <use href="#original-path" fill="white" stroke="none"/>
-    <use href="#circle-path" fill="white" stroke="none"/>
+    <use href="#circle-path" fill="black" stroke="none"/>
 </g>
 
 <!-- 흰색 테두리 -->
