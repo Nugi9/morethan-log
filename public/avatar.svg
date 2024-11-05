@@ -5,6 +5,9 @@
  width="512.000000pt" height="512.000000pt" viewBox="0 0 512.000000 512.000000"
  preserveAspectRatio="xMidYMid meet">
 
+  <!-- 이미지 안쪽에 흰색 배경 -->
+  <rect x="10" y="10" width="492" height="492" fill="white" />
+ 
 <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
 fill="#000000" stroke="none">
 <path d="M3460 4546 c-91 -26 -172 -81 -220 -151 -16 -23 -168 -337 -339 -696
